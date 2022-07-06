@@ -1,0 +1,50 @@
+Operadores
+
+Tipos:
+
+-Aritimética
+-Atribuição
+-Comparação
+-Lógica
+
+
+
+-Atribuição
+    Atribui valores para variaveis
+
+    =   ->  x = y   ->  x = y
+    +=  ->  x += y  ->  x = x + y
+    *=  ->  x *= y  ->  x = x * y
+    /=  ->  x /= y  ->  x = x / y
+    %=   ->  x %= y   -> x = x%y
+
+- Aritimética
+    Matematicos
+
+    +   -> Adição
+    -   -> Subtração
+    *   -> Multiplicação
+    **  -> Exponencial
+    /   -> Divisão
+    %   -> Módulo
+    ++  -> Incrementar
+    --  -> Decrementar
+
+
+- Comparação
+    Fica ligado (front-end)
+    
+    ==  -> Igual a (valores)
+    === -> Mesmo valor e mesmo tipo
+    !=  -> Diferente
+    !== -> Valor e tipos diferentes
+    >   -> Maior que
+    <   -> Menor que
+    >=  -> Maior ou Igual
+    <=  -> Menor ou Igual
+
+- Lógica
+    
+    &&  -> e lógico (entre duas afirmações)
+    ||  -> ou lógico
+    !   -> não lógico
